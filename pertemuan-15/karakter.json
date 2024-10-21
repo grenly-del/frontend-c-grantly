@@ -1,0 +1,62 @@
+{
+    "data-hero": [
+        {
+            "hero-id": 1,
+            "hero-name": "Zilong",
+            "hero_avatar": "../image/zilong.jpg",
+            "hero-role": "Fighter, Assassin",
+            "hero-specially": "Burst Damage" 
+
+        },
+        {
+            "hero_id": 2,
+            "hero_name": "Martis",
+            "hero_avatar": "../image/martis.jpg",
+            "hero_role": "Fighter",
+            "hero_specially": "Reap,Burst Damage"
+        },
+        {
+            "hero_id": 3,
+            "hero_name": "Alucard",
+            "hero_avatar": "../image/alucard.jpg",
+            "hero_role": "Fighter,Assassin",
+            "hero_specially": "Charge,Crowd Control"
+        },
+        {
+            "hero_id": 4,
+            "hero_name": "Lancelot",
+            "hero_avatar": "../image/lancelot.jpg",
+            "hero_role": "Assassin",
+            "hero_specially": "Charge,Burst Damage"
+        },
+        {
+            "hero_id": 21,
+            "hero_name": "Layla",
+            "hero_avatar": "../image/layla.jpg",
+            "hero_role": "Marksman",
+            "hero_specially": "Reap"
+        },
+        {
+            "hero_id": 59,
+            "hero_name": "Gatot kaca",
+            "hero_avatar": "../image/gatotkaca.jpg",
+            "hero_role": "Tank,Fighter",
+            "hero_specially": "Initiator,Crowd Control"
+        },
+        {
+            "hero_id": 73,
+            "hero_name": "Freya",
+            "hero_avatar": "../image/freya.jpg",
+            "hero_role": "Fighter",
+            "hero_specially": "Charge,Burst Damage"
+        },
+        {
+            "hero_id": 73,
+            "hero_name": "Yu Zhong",
+            "hero_avatar": "../image/yuzhong.jpg",
+            "hero_role": "Fighter",
+            "hero_specially": "Charge,Crowd Control"
+        }
+    ],
+    "total-karakter": 8
+}
